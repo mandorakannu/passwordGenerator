@@ -11,8 +11,10 @@
     "build": "cd android && gradlew assembleRelease"
   },
   "dependencies": {
+    "formik": "^2.4.4",
     "react": "18.2.0",
     "react-native": "0.72.4",
+    "react-native-bouncy-checkbox": "^3.0.7",
     "yup": "^1.2.0"
   },
   "devDependencies": {
